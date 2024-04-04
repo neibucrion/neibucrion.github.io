@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roboteReact/static/css/main.3246d104.css",
+    "main.js": "/roboteReact/static/js/main.d051113c.js",
+    "static/js/453.ca6b82fa.chunk.js": "/roboteReact/static/js/453.ca6b82fa.chunk.js",
+    "index.html": "/roboteReact/index.html",
+    "main.3246d104.css.map": "/roboteReact/static/css/main.3246d104.css.map",
+    "main.d051113c.js.map": "/roboteReact/static/js/main.d051113c.js.map",
+    "453.ca6b82fa.chunk.js.map": "/roboteReact/static/js/453.ca6b82fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3246d104.css",
+    "static/js/main.d051113c.js"
+  ]
+}
